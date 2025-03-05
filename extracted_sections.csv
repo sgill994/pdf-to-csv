@@ -1,0 +1,87 @@
+Page,Response
+1,"{
+    ""sections"": [
+        {
+            ""Section"": ""1"",
+            ""Section Title"": ""INTENT AND OVERVIEW"",
+            ""Section Body Text"": """",
+            ""Start Page"": ""1"",
+            ""Starts On New Page"": true
+        },
+        {
+            ""Section"": ""1.1"",
+            ""Section Title"": ""Intent"",
+            ""Section Body Text"": ""The intent of this Residential Inclusive district schedule is to enable a variety of small-scale housing options while retaining the single lot character of the area. Housing options include multiple dwellings (\""multiplex\"" up to 6 dwelling units, or up to 8 rental dwelling units), duplexes and single detached houses. Duplexes may include additional dwelling units such as secondary suites and lock-off units, and single detached houses may include additional dwelling units such as secondary suites and laneway houses. Retention of character houses is encouraged by permitting infill and multiple conversion dwellings where a character house is retained.\n\nWithout limitation, applicable Council policies and guidelines for consideration include the Guidelines for Additions, Infill and Multiple Conversion Dwelling in the R1-1, RT-7 and RT-9 Zones and Flood Plain Standards and Requirements."",
+            ""Start Page"": ""1"",
+            ""Starts On New Page"": false
+        },
+        {
+            ""Section"": ""1.2"",
+            ""Section Title"": ""Overview"",
+            ""Section Body Text"": ""The table below provides an overview of the outright and conditional approval uses in the R1-1 district, categorized by the minimum site area required, where applicable. Applicable density, form and placement regulations in section 3 of this schedule are cross-referenced in the third column.\n\nMinimum\nSite Area\nUse\nDensity, Form\nand Placement\nRegulations\n\n557 m² Multiple dwelling containing 6, 7 or 8 dwelling units 3.1\n464 m² Multiple dwelling containing 5 dwelling units 3.1\n306 m² Multiple dwelling containing 3 or 4 dwelling units 3.1\nDuplex or Duplex with Secondary Suite 3.2\nSingle Detached House or Single Detached House with Secondary Suite 3.2\n-- Other uses in section 2.1 of this schedule 3.2"",
+            ""Start Page"": ""1"",
+            ""Starts On New Page"": false
+        }
+    ]
+}"
+2,"{
+    ""sections"": [
+        {
+            ""Section"": ""2"",
+            ""Section Title"": ""USE REGULATIONS"",
+            ""Section Body Text"": """",
+            ""Start Page"": ""2"",
+            ""Starts On New Page"": true
+        },
+        {
+            ""Section"": ""2.1"",
+            ""Section Title"": ""Outright and Conditional Approval Uses"",
+            ""Section Body Text"": ""All outright and conditional approval uses are subject to all other provisions of this by-law, including Section 2, Section 10 and Section 11, and compliance with the regulations of this schedule including section 2.2.\n\nThe uses identified in the table below as outright approval uses are permitted in this district and will be issued a permit.\n\nThe uses identified in the table below as conditional approval uses may be approved in this district by the Director of Planning, with or without conditions, if the Director of Planning considers the intent of this schedule and all applicable Council policies and guidelines.\n\nUses are listed under their general land use category. Applicable use-specific regulations in section 2.2 of this schedule are cross-referenced in the third column. Cross-references to applicable use-specific regulations are provided for information purposes only and do not form part of this by-law.\n\nUse Approval Use-Specific\nRegulations\nAgricultural Uses\nUrban Farm - Class A Conditional\nCultural and Recreational Uses\nCommunity Centre or Neighbourhood House Conditional\nGolf Course or Driving Range Conditional\nLibrary, in combination with Community Centre Conditional\nMarina Conditional\nPark or Playground Conditional\nStadium or Arena Conditional\nZoo or Botanical Garden Conditional\nDwelling Uses\nDuplex Outright\nDuplex with Secondary Suite Conditional 2.2.1, 2.2.2,\n2.2.3\nInfill, in combination with the retention of a character house Conditional 2.2.1, 2.2.2\nInfill, existing as of October 17, 2023 Conditional\nLaneway House Conditional 2.2.1, 2.2.2,\n2.2.4\nMixed-Use Residential Building Conditional 2.2.5\nMultiple Conversion Dwelling, resulting from the conversion of a\ncharacter house Conditional 2.2.1, 2.2.2,\n2.2.6"",
+            ""Start Page"": ""2"",
+            ""Starts On New Page"": false
+        }
+    ]
+}"
+3,"{
+    ""sections"": [
+        {
+            ""Section"": ""use_prev_section"",
+            ""Section Title"": """",
+            ""Section Body Text"": ""Use\nApproval\nUse-Specific\nRegulations\nMultiple Conversion Dwelling, existing as of October 17, 2023\nConditional\n\nMultiple Dwelling, containing no more than 8 dwelling units\nConditional 2.2.1, 2.2.2,\n2.2.7, 2.2.8,\n2.2.9, 2.2.10\nPrincipal Dwelling Unit with Lock-Off Unit\nConditional 2.2.11\nSeniors Supportive or Assisted Housing\nConditional\nSingle Detached House\nOutright\nSingle Detached House with Secondary Suite\nConditional 2.2.1, 2.2.2\nSingle Detached House in combination with another Single Detached House, existing as of October 17, 2023\nConditional\nInstitutional Uses\nAmbulance Station\nConditional\nChild Day Care Facility\nConditional\nChurch\nConditional\nCommunity Care Facility - Class A\nOutright 2.2.12\nCommunity Care Facility - Class B\nConditional\nGroup Residence\nConditional\nHospital\nConditional\nPublic Authority Use, essential in this district\nConditional\nSchool - Elementary or Secondary\nConditional\nSocial Service Centre\nConditional\nOffice Uses\nTemporary Sales Office\nConditional\nParking Uses\nParking Area, ancillary to a principal use on an adjacent site\nConditional\nRetail Uses\nFarmers’ Market\nConditional 2.2.13\nNeighbourhood Grocery Store\nConditional\nPublic Bike Share\nConditional\nShared E-Scooter System\nConditional\nService Uses\nBed and Breakfast Accommodation\nConditional\nShort Term Rental Accommodation\nConditional\nUtility and Communication Uses"",
+            ""Start Page"": ""3"",
+            ""Starts On New Page"": false
+        }
+    ]
+}"
+4,"{
+    ""sections"": [
+        {
+            ""Section"": ""use_prev_section"",
+            ""Section Title"": """",
+            ""Section Body Text"": ""Use\nApproval Use-Specific Regulations\nPublic Utility Conditional \nuncategorized\nAccessory Buildings, customarily ancillary to any use listed in this section 2.1 Outright 2.2.14\nAccessory Buildings, customarily ancillary to any use listed in this section 2.1 and not permitted as an outright approval use Conditional\nAccessory Uses, customarily ancillary to any outright approval use listed in this section 2.1 Outright 2.2.15\nAccessory Uses, customarily ancillary to any conditional approval use listed in this section 2.1 Conditional\nDeposition or extraction of material, which alters the configuration of the land Conditional"",
+            ""Start Page"": ""4"",
+            ""Starts On New Page"": false
+        },
+        {
+            ""Section"": ""2.2"",
+            ""Section Title"": ""Use-Specific Regulations"",
+            ""Section Body Text"": """",
+            ""Start Page"": ""4"",
+            ""Starts On New Page"": false
+        },
+        {
+            ""Section"": ""2.2.1"",
+            ""Section Title"": """",
+            ""Section Body Text"": ""A new multiple dwelling, duplex with secondary suite, single detached house with secondary suite,\nlaneway house, infill in combination with the retention of a character house, or multiple conversion dwelling\nresulting from the conversion of a character house may only be permitted if:\n\n(a) on a site less than 15.1 m in width, a minimum of 1 existing tree located in the front yard is retained\nor, where an existing tree in the front yard cannot be retained or where there are no existing trees in\nthe front yard, a minimum of 1 tree is planted in the front yard; and\n\n(b) on a site 15.1 m in width or wider, a minimum of 2 existing trees located in the front yard of the\nsite are retained or, where an existing tree in the front yard cannot be retained or where there are\nno existing trees in the front yard, a minimum of 1 tree in the case where 1 existing tree could be\nretained, or 2 trees in the case where no trees could be retained or there were no existing trees, are\nplanted in the front yard,\n\nexcept that for a site without access to a lane, the Director of Planning may vary any requirement in this\nsection 2.2.1."",
+            ""Start Page"": ""4"",
+            ""Starts On New Page"": false
+        },
+        {
+            ""Section"": ""2.2.2"",
+            ""Section Title"": """",
+            ""Section Body Text"": ""For the purposes of fulfilling the requirements of section 2.2.1 above:\n\n(a) existing trees that are retained must have a trunk or stem the diameter of which, or 2 or more trunks\nor stems the combined diameter of the 2 or 3 largest trunks or stems of which, measured 1.4 m above\nthe existing grade of the ground adjoining its base, is 20 cm or more; and\n\n(b) for each tree that must be planted, any of the following may be planted:\n\n(i) 1 tree as described in Part 1 of Schedule D of the Protection of Trees By-law,"",
+            ""Start Page"": ""4"",
+            ""Starts On New Page"": false
+        }
+    ]
+}"
